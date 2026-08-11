@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
