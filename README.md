@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0061-rotate-list) |
 ## Two Pointers
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0258-add-digits) |
 ## Sorting
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0258-add-digits) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
