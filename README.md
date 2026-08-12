@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0189-rotate-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/khaleedshaik62/leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/khaleedshaik62/leetcode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0001-two-sum) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/khaleedshaik62/leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/khaleedshaik62/leetcode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Linked List
 |  |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0190-reverse-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/khaleedshaik62/leetcode-problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/khaleedshaik62/leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
