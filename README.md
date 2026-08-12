@@ -60,4 +60,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0190-reverse-bits) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/khaleedshaik62/leetcode-problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
