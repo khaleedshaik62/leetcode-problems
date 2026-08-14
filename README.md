@@ -89,5 +89,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2833-furthest-point-from-origin](https://github.com/khaleedshaik62/leetcode-problems/tree/master/2833-furthest-point-from-origin) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/khaleedshaik62/leetcode-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Counting
+|  |
+| ------- |
+| [2833-furthest-point-from-origin](https://github.com/khaleedshaik62/leetcode-problems/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
