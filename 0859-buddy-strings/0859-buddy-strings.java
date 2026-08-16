@@ -20,11 +20,9 @@ class Solution {
             seen[x] = true;
         }
 
-        // Strings are same
         if (a == -1)
             return duplicate;
 
-        // Exactly 2 mismatches
         return b != -1 &&
                s.charAt(a) == goal.charAt(b) &&
                s.charAt(b) == goal.charAt(a);
