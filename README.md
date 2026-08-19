@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0860-lemonade-change) |
 | [0908-smallest-range-i](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0908-smallest-range-i) |
 | [0976-largest-perimeter-triangle](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
+| [1710-maximum-units-on-a-truck](https://github.com/khaleedshaik62/leetcode-problems/tree/master/1710-maximum-units-on-a-truck) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/khaleedshaik62/leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/khaleedshaik62/leetcode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/khaleedshaik62/leetcode-problems/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0976-largest-perimeter-triangle](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
+| [1710-maximum-units-on-a-truck](https://github.com/khaleedshaik62/leetcode-problems/tree/master/1710-maximum-units-on-a-truck) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/khaleedshaik62/leetcode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
+| [1710-maximum-units-on-a-truck](https://github.com/khaleedshaik62/leetcode-problems/tree/master/1710-maximum-units-on-a-truck) |
 ## Quicksort
 |  |
 | ------- |
