@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0908-smallest-range-i) |
 | [0976-largest-perimeter-triangle](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/khaleedshaik62/leetcode-problems/tree/master/1137-n-th-tribonacci-number) |
+| [1518-water-bottles](https://github.com/khaleedshaik62/leetcode-problems/tree/master/1518-water-bottles) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/khaleedshaik62/leetcode-problems/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Sorting
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0258-add-digits) |
+| [1518-water-bottles](https://github.com/khaleedshaik62/leetcode-problems/tree/master/1518-water-bottles) |
 | [2079-watering-plants](https://github.com/khaleedshaik62/leetcode-problems/tree/master/2079-watering-plants) |
 ## Number Theory
 |  |
