@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0118-pascals-triangle](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0189-rotate-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0061-rotate-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0189-rotate-array) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
