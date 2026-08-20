@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0189-rotate-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0061-rotate-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0189-rotate-array) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0322-coin-change) |
@@ -149,4 +152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0322-coin-change) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
