@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0056-merge-intervals](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0189-rotate-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0976-largest-perimeter-triangle](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
 | [1710-maximum-units-on-a-truck](https://github.com/khaleedshaik62/leetcode-problems/tree/master/1710-maximum-units-on-a-truck) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0976-largest-perimeter-triangle](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
 ## Polygons
