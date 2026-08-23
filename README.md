@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0860-lemonade-change) |
 | [0908-smallest-range-i](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0908-smallest-range-i) |
 | [0976-largest-perimeter-triangle](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
+| [1598-crawler-log-folder](https://github.com/khaleedshaik62/leetcode-problems/tree/master/1598-crawler-log-folder) |
 | [1710-maximum-units-on-a-truck](https://github.com/khaleedshaik62/leetcode-problems/tree/master/1710-maximum-units-on-a-truck) |
 | [2079-watering-plants](https://github.com/khaleedshaik62/leetcode-problems/tree/master/2079-watering-plants) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/khaleedshaik62/leetcode-problems/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0859-buddy-strings](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0859-buddy-strings) |
+| [1598-crawler-log-folder](https://github.com/khaleedshaik62/leetcode-problems/tree/master/1598-crawler-log-folder) |
 | [2833-furthest-point-from-origin](https://github.com/khaleedshaik62/leetcode-problems/tree/master/2833-furthest-point-from-origin) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/khaleedshaik62/leetcode-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Counting
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [1598-crawler-log-folder](https://github.com/khaleedshaik62/leetcode-problems/tree/master/1598-crawler-log-folder) |
 ## Monotonic Stack
 |  |
 | ------- |
