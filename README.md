@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0258-add-digits) |
 | [0390-elimination-game](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0390-elimination-game) |
 | [0908-smallest-range-i](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0908-smallest-range-i) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0224-basic-calculator](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0233-number-of-digit-one) |
 | [0390-elimination-game](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0390-elimination-game) |
 ## Divide and Conquer
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0198-house-robber) |
+| [0233-number-of-digit-one](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0233-number-of-digit-one) |
 | [0322-coin-change](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0322-coin-change) |
 | [1137-n-th-tribonacci-number](https://github.com/khaleedshaik62/leetcode-problems/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
