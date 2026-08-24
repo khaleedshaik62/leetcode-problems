@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0258-add-digits) |
 | [0908-smallest-range-i](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0908-smallest-range-i) |
 | [0976-largest-perimeter-triangle](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0002-add-two-numbers) |
+| [0224-basic-calculator](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0224-basic-calculator) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0224-basic-calculator) |
 | [0859-buddy-strings](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0859-buddy-strings) |
 | [1598-crawler-log-folder](https://github.com/khaleedshaik62/leetcode-problems/tree/master/1598-crawler-log-folder) |
 | [2833-furthest-point-from-origin](https://github.com/khaleedshaik62/leetcode-problems/tree/master/2833-furthest-point-from-origin) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0224-basic-calculator](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0224-basic-calculator) |
 | [1598-crawler-log-folder](https://github.com/khaleedshaik62/leetcode-problems/tree/master/1598-crawler-log-folder) |
 ## Monotonic Stack
 |  |
