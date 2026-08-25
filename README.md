@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0860-lemonade-change](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0860-lemonade-change) |
 | [0908-smallest-range-i](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0908-smallest-range-i) |
 | [0976-largest-perimeter-triangle](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
