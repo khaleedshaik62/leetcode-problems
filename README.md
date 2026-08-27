@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0038-count-and-say) |
 | [0224-basic-calculator](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0273-integer-to-english-words) |
 | [0819-most-common-word](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0819-most-common-word) |
