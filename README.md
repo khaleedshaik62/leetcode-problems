@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0485-max-consecutive-ones) |
+| [0819-most-common-word](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0819-most-common-word) |
 | [0860-lemonade-change](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0896-monotonic-array) |
 | [0908-smallest-range-i](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0908-smallest-range-i) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0202-happy-number) |
+| [0819-most-common-word](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0819-most-common-word) |
 | [0859-buddy-strings](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0859-buddy-strings) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/khaleedshaik62/leetcode-problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/khaleedshaik62/leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0273-integer-to-english-words) |
+| [0819-most-common-word](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0819-most-common-word) |
 | [0859-buddy-strings](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0859-buddy-strings) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/khaleedshaik62/leetcode-problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1598-crawler-log-folder](https://github.com/khaleedshaik62/leetcode-problems/tree/master/1598-crawler-log-folder) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0819-most-common-word](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0819-most-common-word) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/khaleedshaik62/leetcode-problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2833-furthest-point-from-origin](https://github.com/khaleedshaik62/leetcode-problems/tree/master/2833-furthest-point-from-origin) |
 ## Dynamic Programming
