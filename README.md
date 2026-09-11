@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0258-add-digits) |
 | [1518-water-bottles](https://github.com/khaleedshaik62/leetcode-problems/tree/master/1518-water-bottles) |
 | [2079-watering-plants](https://github.com/khaleedshaik62/leetcode-problems/tree/master/2079-watering-plants) |
+| [3271-hash-divided-string](https://github.com/khaleedshaik62/leetcode-problems/tree/master/3271-hash-divided-string) |
 ## Number Theory
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/khaleedshaik62/leetcode-problems/tree/master/1598-crawler-log-folder) |
 | [2833-furthest-point-from-origin](https://github.com/khaleedshaik62/leetcode-problems/tree/master/2833-furthest-point-from-origin) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/khaleedshaik62/leetcode-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3271-hash-divided-string](https://github.com/khaleedshaik62/leetcode-problems/tree/master/3271-hash-divided-string) |
 ## Counting
 |  |
 | ------- |
