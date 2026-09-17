@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0202-happy-number) |
+| [0771-jewels-and-stones](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0819-most-common-word) |
 | [0859-buddy-strings](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0859-buddy-strings) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/khaleedshaik62/leetcode-problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0038-count-and-say) |
 | [0224-basic-calculator](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0273-integer-to-english-words) |
+| [0771-jewels-and-stones](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0819-most-common-word) |
 | [0859-buddy-strings](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0859-buddy-strings) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/khaleedshaik62/leetcode-problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
