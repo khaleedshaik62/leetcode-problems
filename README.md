@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0224-basic-calculator) |
 | [1598-crawler-log-folder](https://github.com/khaleedshaik62/leetcode-problems/tree/master/1598-crawler-log-folder) |
 ## Monotonic Stack
@@ -209,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0202-happy-number) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
