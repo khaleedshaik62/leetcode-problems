@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0819-most-common-word](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0819-most-common-word) |
 | [0860-lemonade-change](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0896-monotonic-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0202-happy-number) |
+| [0496-next-greater-element-i](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0819-most-common-word) |
 | [0859-buddy-strings](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0859-buddy-strings) |
@@ -201,11 +203,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0224-basic-calculator) |
+| [0496-next-greater-element-i](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [1598-crawler-log-folder](https://github.com/khaleedshaik62/leetcode-problems/tree/master/1598-crawler-log-folder) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0496-next-greater-element-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
