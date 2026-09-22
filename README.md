@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0908-smallest-range-i) |
 | [0976-largest-perimeter-triangle](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/khaleedshaik62/leetcode-problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1480-running-sum-of-1d-array](https://github.com/khaleedshaik62/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1598-crawler-log-folder](https://github.com/khaleedshaik62/leetcode-problems/tree/master/1598-crawler-log-folder) |
 | [1710-maximum-units-on-a-truck](https://github.com/khaleedshaik62/leetcode-problems/tree/master/1710-maximum-units-on-a-truck) |
 | [2079-watering-plants](https://github.com/khaleedshaik62/leetcode-problems/tree/master/2079-watering-plants) |
@@ -218,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0155-min-stack) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/khaleedshaik62/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
