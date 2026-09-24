@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/khaleedshaik62/leetcode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/khaleedshaik62/leetcode-problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/khaleedshaik62/leetcode-problems/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/khaleedshaik62/leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/khaleedshaik62/leetcode-problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/khaleedshaik62/leetcode-problems/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/khaleedshaik62/leetcode-problems/tree/master/1137-n-th-tribonacci-number) |
 | [1518-water-bottles](https://github.com/khaleedshaik62/leetcode-problems/tree/master/1518-water-bottles) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/khaleedshaik62/leetcode-problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/khaleedshaik62/leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/khaleedshaik62/leetcode-problems/tree/master/3870-count-commas-in-range) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/khaleedshaik62/leetcode-problems/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Sorting
