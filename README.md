@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0258-add-digits) |
 | [0273-integer-to-english-words](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0273-integer-to-english-words) |
 | [0390-elimination-game](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0390-elimination-game) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0908-smallest-range-i](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0908-smallest-range-i) |
 | [0976-largest-perimeter-triangle](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/khaleedshaik62/leetcode-problems/tree/master/1137-n-th-tribonacci-number) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/khaleedshaik62/leetcode-problems/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 ## Simulation
 |  |
 | ------- |
